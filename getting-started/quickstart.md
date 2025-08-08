@@ -1,4 +1,5 @@
 ---
+description: Getting Started
 icon: bolt
 layout:
   width: default
@@ -18,20 +19,33 @@ layout:
 
 # Quickstart !
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-08 at 13.49.02.png" alt=""><figcaption></figcaption></figure>
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+## SAY GM&#x20;
+
+* **Connect your wallet** – Click _Connect Wallet_ and choose MetaMask or WalletConnect.
+* **Say GM** – Hit the green **Say GM** button to send your GM for the day.
+* **Track your progress** – View streaks, total GMs, XP, and leaderboard position.
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
+💡 _Tip:_ You can only send **1 GM per chain per day** — so visit multiple chains for extra XP.
 {% endhint %}
 
 ### Import
 
 GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2025-08-08 at 13.49.50.png" alt=""><figcaption></figcaption></figure></div>
 
-### Sync a repository
+## Deploy a Smart Contract
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+**Deploy a Smart Contract –** CheapGM lets you deploy pre-built smart contracts directly from the app without writing code.
+
+1. **Go to “Deploy SC” tab** – In the main menu, select the **Deploy Smart Contract** section.
+2. **Select the network** – Choose the blockchain where you want the contract deployed.
+3. **Confirm in your wallet** – Approve the transaction in MetaMask or WalletConnect.
+4. **View your contract** – Once deployed, you’ll see the contract address and can interact with it instantly.
+
+{% hint style="info" %}
+💡 _Tip:_ Contracts deployed through CheapGM are verified on-chain
+{% endhint %}

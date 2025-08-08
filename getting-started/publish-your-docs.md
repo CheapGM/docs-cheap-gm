@@ -1,5 +1,6 @@
 ---
-icon: globe-pointer
+description: Earn 25% of all GM contract fees
+icon: treasure-chest
 layout:
   width: default
   title:
@@ -16,10 +17,17 @@ layout:
     visible: true
 ---
 
-# Publish your docs
+# Rewards System
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
+### **Get your referral link:**
+
+* **XP & Streaks** – XP is earned per GM; streak bonuses apply after 3, 7, and 30 days.
+* **Referral Rewards** – Earn **25% of all GM contract fees** from users who joined via your link.
+* **Campaigns** – Special events with USDT, token, or XP rewards.
+
+**Get your referral link:**\
+Go to the **Referrals** tab → Copy link → Share it.
 
 You can publish your site and find related settings from your docs site's homepage.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-08 at 13.53.19.png" alt="" width="563"><figcaption></figcaption></figure>
