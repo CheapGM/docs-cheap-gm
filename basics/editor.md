@@ -1,5 +1,6 @@
 ---
-icon: pen-to-square
+description: All GM Smart Contract on website
+icon: compress
 layout:
   width: default
   title:
@@ -16,36 +17,11 @@ layout:
     visible: true
 ---
 
-# Editor
+# GM Smart Contracts
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+The GM smart contract stores your daily GM data directly on the blockchain.\
+This ensures your streaks and XP are verifiable and tamper-proof.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+**Contract addresses:**
 
-### Writing content
-
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
-
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
-
-### Add a new block
-
-{% stepper %}
-{% step %}
-#### Open the insert block menu
-
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-#### Search for the block you need
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-#### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image"></th></tr></thead><tbody><tr><td> INK GM Smart Contract </td><td><a href="../.gitbook/assets/ink.jpg">ink.jpg</a></td></tr><tr><td>Unichain GM SC</td><td><a href="../.gitbook/assets/Unichain.jpg">Unichain.jpg</a></td></tr><tr><td>Soneium GM SC</td><td><a href="../.gitbook/assets/soneium.jpg">soneium.jpg</a></td></tr><tr><td>Plume GM SC</td><td><a href="../.gitbook/assets/plume.jpg">plume.jpg</a></td></tr><tr><td>XRPL SIDE Chain GM SC</td><td><a href="../.gitbook/assets/xrp.jpeg">xrp.jpeg</a></td></tr><tr><td>Somnia Testnet GM SC</td><td><a href="../.gitbook/assets/Somnia.jpg">Somnia.jpg</a></td></tr><tr><td>Hemi GM SC</td><td><a href="../.gitbook/assets/hemi.jpg">hemi.jpg</a></td></tr><tr><td>Zenchain Testnet GM SC</td><td><a href="../.gitbook/assets/ZenChain.png">ZenChain.png</a></td></tr><tr><td>Base Gm SC</td><td><a href="../.gitbook/assets/base.jpg">base.jpg</a></td></tr></tbody></table>
