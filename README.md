@@ -1,7 +1,12 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/Gm  4850 1380.png
+coverY: 0
 layout:
   width: default
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
