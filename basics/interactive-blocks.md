@@ -1,7 +1,7 @@
 ---
 description: Contacts of CheapGM
 icon: hand-pointer
-cover: ../.gitbook/assets/Gm Contarcts.png
+cover: ../.gitbook/assets/Gm Contarcts (1).png
 coverY: 0
 layout:
   width: default
