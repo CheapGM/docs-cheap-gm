@@ -27,7 +27,7 @@ layout:
 Every GM is recorded on-chain, earns you XP, and builds your streak.\
 With built-in referral rewards and smart contract deployment, CheapGM is both a community game and a developer tool.
 
-[https://www.gm.cheap/](https://www.gm.cheap/)
+[https://www.gm.cheap](https://www.gm.cheap/)
 
 **Core features:**
 

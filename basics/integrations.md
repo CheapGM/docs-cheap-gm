@@ -1,4 +1,5 @@
 ---
+description: Integrate GM Button into your FE
 icon: plug-circle-plus
 layout:
   width: default
@@ -16,12 +17,44 @@ layout:
     visible: true
 ---
 
-# Integrations
+# Integrate GM Button
 
-GitBook integrations allow you to connect your GitBook spaces to some of your favorite platforms and services. You can install integrations into your GitBook page from the _Integrations_ menu in the top left.
+Easily add the **GM.Cheap** "Say GM" button to your own website, dApp, or dashboard. This allows your community to send on-chain GMs directly from your platform, earning you referral rewards automatically.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/integrations-hero.png" alt=""><figcaption></figcaption></figure>
+***
 
-### Types of integrations
+#### **How It Works**
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Analytics</strong></td><td>Track analytics from your docs</td><td><a href="https://www.gitbook.com/integrations#analytics">https://www.gitbook.com/integrations#analytics</a></td><td></td><td></td></tr><tr><td><strong>Support</strong></td><td>Add support widgets to your docs</td><td><a href="https://www.gitbook.com/integrations#support">https://www.gitbook.com/integrations#support</a></td><td></td><td></td></tr><tr><td><strong>Interactive</strong></td><td>Add extra functionality to your docs</td><td><a href="https://www.gitbook.com/integrations#interactive">https://www.gitbook.com/integrations#interactive</a></td><td></td><td></td></tr><tr><td><strong>Visitor Authentication</strong></td><td>Protect your docs and require sign-in</td><td><a href="https://www.gitbook.com/integrations#visitor-authentication">https://www.gitbook.com/integrations#visitor-authentication</a></td><td></td><td></td></tr></tbody></table>
+1. You embed our **GM button code snippet** in your site.
+2. Users connect their wallet and click **Say GM**.
+3. The GM is sent on-chain via our smart contract.
+4. **25% of the fee** goes directly to your wallet if your referral link is integrated.
+
+***
+
+#### **Example Embed Code**
+
+```html
+<iframe 
+  src="https://gm.cheap/embed?ref=YOUR_REF_CODE" 
+  width="300" 
+  height="100" 
+  frameborder="0">
+</iframe>
+```
+
+Replace `YOUR_REF_CODE` with your actual referral ID.
+
+***
+
+#### **Customization Options**
+
+* **Network selection** – Let users choose which chain to send GM on.
+* **Styling** – Adjust button size, colors, and fonts to match your site.
+* **Tracking** – See GM activity from your embed via your referral dashboard.
+
+***
+
+#### **Live Demo**
+
+🔗 [Try the GM Button](https://gm.cheap/embed)

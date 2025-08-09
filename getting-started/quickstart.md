@@ -1,5 +1,5 @@
 ---
-description: Getting Started
+description: Getting Started with GM
 icon: bolt
 layout:
   width: default
@@ -19,8 +19,6 @@ layout:
 
 # Quickstart !
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-08-08 at 13.49.02.png" alt=""><figcaption></figcaption></figure>
-
 ## SAY GM&#x20;
 
 * **Connect your wallet** – Click _Connect Wallet_ and choose MetaMask or WalletConnect.
@@ -31,11 +29,7 @@ layout:
 💡 _Tip:_ You can only send **1 GM per chain per day** — so visit multiple chains for extra XP.
 {% endhint %}
 
-### Import
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2025-08-08 at 13.49.50.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/Screenshot 2025-08-08 at 13.49.02.png" alt=""><figcaption></figcaption></figure>
 
 ## Deploy a Smart Contract
 
@@ -49,3 +43,5 @@ GitBook supports importing content from many popular writing tools and formats. 
 {% hint style="info" %}
 💡 _Tip:_ Contracts deployed through CheapGM are verified on-chain
 {% endhint %}
+
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2025-08-08 at 13.49.50.png" alt=""><figcaption></figcaption></figure></div>
