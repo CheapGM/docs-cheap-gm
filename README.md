@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Gm  4850 1380.png
+cover: .gitbook/assets/Gm  4850 1380 (1).png
 coverY: 0
 layout:
   width: default

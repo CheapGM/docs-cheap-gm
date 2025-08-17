@@ -13,3 +13,4 @@
 * [Deploy Smart Contracts](basics/editor-1.md)
 * [Integrate GM Button](basics/integrations.md)
 * [Contacts](basics/interactive-blocks.md)
+* [Brand Book](basics/brand-book.md)
