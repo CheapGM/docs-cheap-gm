@@ -5,16 +5,16 @@
 ## Getting Started
 
 * [Quickstart !](getting-started/quickstart.md)
-* [Rewards System](getting-started/publish-your-docs.md)
+* [Rewards System](getting-started/referral.md)
 
 ## Basics
 
-* [GM Smart Contracts](basics/editor.md)
-* [Deploy Smart Contracts](basics/editor-1.md)
-* [Brand Book](basics/brand-book.md)
+* [GM Smart Contracts](basics/gmsc.md)
+* [Deploy Smart Contracts](basics/gmdeploy.md)
+* [Brand Book](basics/brand.md)
 
 ## Integrations
 
 * [Integrate GM Button](integrations/integrations.md)
-* [Contacts](integrations/interactive-blocks.md)
-* [Audit of CheapGM](integrations/audit-of-cheapgm.md)
+* [Contacts](integrations/contacts.md)
+* [Audit of CheapGM](integrations/audit.md)
